@@ -25,13 +25,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=czTOX&theme=algolia&mode=weekly)](https://git.io/streak-stats)
 
----
-
-### Contact me:
-
-<a href="https://www.linkedin.com/in/tom%C3%A1%C5%A1-navrkal/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://www.instagram.com/navrkaltomas" style="margin-left:10px;"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40"/></a>
-
 <!--
 **czTOX/czTOX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
